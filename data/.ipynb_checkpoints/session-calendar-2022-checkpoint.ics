@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//researchr.org//conf.researchr.org//EN
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+DTSTART:20220518T020000Z
+DTEND:20220518T025000Z
+DTSTAMP:20240331T105654Z
+UID:978a1f40-9a71-4a57-904b-d4bf490be3f3@conf.researchr.org
+CREATED:20220503T153427Z
+SUMMARY:MSR Technical Papers: Session 1
+DESCRIPTION:MSR Technical Papers: Session 1\nSession Chair(s): Hongyu Zhang\, Masud Rahman\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T070000Z
+DTEND:20220518T075000Z
+DTSTAMP:20240331T105654Z
+UID:298ccdae-4774-40fd-bb8b-56402a34b869@conf.researchr.org
+CREATED:20220426T063942Z
+SUMMARY:MSR Technical Papers: Session 2: Maintenance (Issues & Smells) 
+DESCRIPTION:MSR Technical Papers: Session 2: Maintenance (Issues & Smells) \nSession Chair(s): Alessio Ferrari\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T090000Z
+DTEND:20220518T095000Z
+DTSTAMP:20240331T105654Z
+UID:64d9cdd6-32f4-4cd5-a67c-65260f2b66a6@conf.researchr.org
+CREATED:20220426T064129Z
+SUMMARY:MSR Technical Papers: Session 3: Introspection\, Vision\, and Human Aspects 
+DESCRIPTION:MSR Technical Papers: Session 3: Introspection\, Vision\, and Human Aspects \nSession Chair(s): Alexander Serebrenik\, Sebastian Baltes\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T160000Z
+DTEND:20220518T165000Z
+DTSTAMP:20240331T105654Z
+UID:8bb6073d-d70e-4424-b364-9ba51870ed3f@conf.researchr.org
+CREATED:20220426T064302Z
+SUMMARY:MSR Technical Papers: Mining Challenge
+DESCRIPTION:MSR Technical Papers: Mining Challenge\nSession Chair(s): Steffen Herbold\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T170000Z
+DTEND:20220518T175000Z
+DTSTAMP:20240331T105654Z
+UID:76347ec5-a690-48be-a499-2143edc496a0@conf.researchr.org
+CREATED:20220426T064426Z
+SUMMARY:MSR Technical Papers: Session 4: Software Quality (Bugs & Smells)
+DESCRIPTION:MSR Technical Papers: Session 4: Software Quality (Bugs & Smells)\nSession Chair(s): Maxime Lamothe\, Mahmoud Alfadel\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T170000Z
+DTEND:20220518T175000Z
+DTSTAMP:20240331T105654Z
+UID:00d95a79-a095-4c8c-a96c-cdee990e6b10@conf.researchr.org
+CREATED:20220426T064438Z
+SUMMARY:MSR Technical Papers: Tutorial: Empirical Standards for Repository Mining
+DESCRIPTION:\n\n
+LOCATION:MSR Tutorials room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T180000Z
+DTEND:20220518T185000Z
+DTSTAMP:20240331T105654Z
+UID:ca39cae8-424d-4412-9bb0-a3b1497200a8@conf.researchr.org
+CREATED:20220426T064554Z
+SUMMARY:MSR Technical Papers: Session 5: Communication & Domains 
+DESCRIPTION:MSR Technical Papers: Session 5: Communication & Domains \nSession Chair(s): Masud Rahman\, Mahmoud Alfadel\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220518T180000Z
+DTEND:20220518T185000Z
+DTSTAMP:20240331T105654Z
+UID:89ad82d0-560c-46d7-87de-03cdecf2d2f3@conf.researchr.org
+CREATED:20220426T064452Z
+SUMMARY:MSR Technical Papers: Tutorial: Mining the Ethereum Blockchain Platform
+DESCRIPTION:\n\n
+LOCATION:MSR Tutorials room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T000000Z
+DTEND:20220519T005000Z
+DTSTAMP:20240331T105654Z
+UID:975b10ed-c1ef-4a73-a302-827f0e34f559@conf.researchr.org
+CREATED:20220426T064700Z
+SUMMARY:MSR Technical Papers: Session 6: Maintenance & Testing
+DESCRIPTION:MSR Technical Papers: Session 6: Maintenance & Testing\nSession Chair(s): Ajay Jha\, Amjed Tahir\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T010000Z
+DTEND:20220519T015000Z
+DTSTAMP:20240331T105654Z
+UID:da13d362-e418-4ac8-b6eb-348a68e21bc7@conf.researchr.org
+CREATED:20220426T064812Z
+SUMMARY:MSR Technical Papers:  Session 7: Developer Wellbeing & Project Communication
+DESCRIPTION:MSR Technical Papers:  Session 7: Developer Wellbeing & Project Communication\nSession Chair(s): Bram Adams\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T070000Z
+DTEND:20220519T075000Z
+DTSTAMP:20240331T105654Z
+UID:0bc1d97e-8ff4-4348-952f-1a0bd6ffd89a@conf.researchr.org
+CREATED:20220426T064917Z
+SUMMARY:MSR Technical Papers:  Session 8: Large-Scale Mining & Software Ecosystems
+DESCRIPTION:MSR Technical Papers:  Session 8: Large-Scale Mining & Software Ecosystems\nSession Chair(s): Fiorella Zampetti\, Gregorio Robles\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T080000Z
+DTEND:20220519T085000Z
+DTSTAMP:20240331T105654Z
+UID:3b08f209-b7e5-4c51-80cd-dbcb6e44f623@conf.researchr.org
+CREATED:20220426T065010Z
+SUMMARY:MSR Technical Papers: Session 9: Scaling & Cloud
+DESCRIPTION:MSR Technical Papers: Session 9: Scaling & Cloud\nSession Chair(s): Lwin Khin Shar\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T090000Z
+DTEND:20220519T095000Z
+DTSTAMP:20240331T105654Z
+UID:404135c6-c049-4fb3-a92b-51d69e947045@conf.researchr.org
+CREATED:20220426T065423Z
+SUMMARY:MSR Technical Papers: Session 10: Security
+DESCRIPTION:MSR Technical Papers: Session 10: Security\nSession Chair(s): Triet Le Huynh Minh\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T150000Z
+DTEND:20220519T155000Z
+DTSTAMP:20240331T105654Z
+UID:a22cc96e-86cc-499e-a8a0-5de8bb84025f@conf.researchr.org
+CREATED:20220426T065654Z
+SUMMARY:MSR Technical Papers: Session 11: Machine Learning & Information Retrieval
+DESCRIPTION:MSR Technical Papers: Session 11: Machine Learning & Information Retrieval\nSession Chair(s): Phuong T. Nguyen\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T160000Z
+DTEND:20220519T165100Z
+DTSTAMP:20240331T105654Z
+UID:050cef1b-8542-4384-abc1-c64888e00aed@conf.researchr.org
+CREATED:20220426T065717Z
+SUMMARY:MSR Technical Papers: Vision & Reflections Track: Past
+DESCRIPTION:MSR Technical Papers: Vision & Reflections Track: Past\nSession Chair(s): Bram Adams\, Shaowei Wang\n\n
+LOCATION:MSR Plenary room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T170000Z
+DTEND:20220519T175100Z
+DTSTAMP:20240331T105654Z
+UID:39eef11e-b989-4d44-86b9-c97d3cc5729b@conf.researchr.org
+CREATED:20220426T065733Z
+SUMMARY:MSR Technical Papers: Vision & Reflections Track: Future
+DESCRIPTION:MSR Technical Papers: Vision & Reflections Track: Future\nSession Chair(s): Bram Adams\, Shaowei Wang\n\n
+LOCATION:MSR Plenary room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T180000Z
+DTEND:20220519T185000Z
+DTSTAMP:20240331T105654Z
+UID:e12aef2f-9823-4d42-a3c5-aed0ef9a70f7@conf.researchr.org
+CREATED:20220426T065800Z
+SUMMARY:MSR Technical Papers: MIP Award Session
+DESCRIPTION:MSR Technical Papers: MIP Award Session\nSession Chair(s): Massimiliano Di Penta\n\n
+LOCATION:MSR Plenary room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T000000Z
+DTEND:20220520T005000Z
+DTSTAMP:20240331T105654Z
+UID:472993cf-ce7e-410a-8ddf-ebb6ea962070@conf.researchr.org
+CREATED:20220426T065852Z
+SUMMARY:MSR Technical Papers: Session 12: Integration & Large-Scale Mining
+DESCRIPTION:MSR Technical Papers: Session 12: Integration & Large-Scale Mining\nSession Chair(s): Jin L.C. Guo\, Amjed Tahir\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T010000Z
+DTEND:20220520T015000Z
+DTSTAMP:20240331T105654Z
+UID:4104c886-3e24-4dd0-a6b2-f8003ef642a9@conf.researchr.org
+CREATED:20220426T065958Z
+SUMMARY:MSR Technical Papers: Session 13: Security & Quality
+DESCRIPTION:MSR Technical Papers: Session 13: Security & Quality\nSession Chair(s): Gias Uddin\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T020000Z
+DTEND:20220520T025000Z
+DTSTAMP:20240331T105654Z
+UID:d7020cad-1cd6-4bb1-842d-8414e10668ee@conf.researchr.org
+CREATED:20220505T145313Z
+SUMMARY:MSR Technical Papers: Foundational Contribution Award Session
+DESCRIPTION:MSR Technical Papers: Foundational Contribution Award Session\nSession Chair(s): Miryung Kim\n\n
+LOCATION:MSR Plenary room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T080000Z
+DTEND:20220520T085000Z
+DTSTAMP:20240331T105654Z
+UID:dd1a4251-60f8-43c2-9b8d-62b9a396c534@conf.researchr.org
+CREATED:20220426T070051Z
+SUMMARY:MSR Technical Papers: Session 14: Software Quality 
+DESCRIPTION:MSR Technical Papers: Session 14: Software Quality \nSession Chair(s): Kla Tantithamthavorn\, Simone Scalabrino\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T150000Z
+DTEND:20220520T155000Z
+DTSTAMP:20240331T105654Z
+UID:2a4a653a-c4ea-4895-96f0-f810c7e2f24f@conf.researchr.org
+CREATED:20220426T070219Z
+SUMMARY:MSR Technical Papers: Session 15: Collaboration & Open Source
+DESCRIPTION:MSR Technical Papers: Session 15: Collaboration & Open Source\nSession Chair(s): Massimiliano Di Penta\, Fiorella Zampetti\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T160000Z
+DTEND:20220520T165000Z
+DTSTAMP:20240331T105654Z
+UID:7d6e1dbc-6d62-4120-abce-f7c29f9e9157@conf.researchr.org
+CREATED:20220426T070252Z
+SUMMARY:MSR Technical Papers: Tutorial: Using Datalore for Reproducible Research
+DESCRIPTION:\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T170000Z
+DTEND:20220520T175000Z
+DTSTAMP:20240331T105654Z
+UID:002e328d-050d-43c4-b450-b1bee3cea549@conf.researchr.org
+CREATED:20220426T070345Z
+SUMMARY:MSR Technical Papers:  Hackathon
+DESCRIPTION:MSR Technical Papers:  Hackathon\nSession Chair(s): Gregorio Robles\, Jesus M. Gonzalez-Barahona\, Maëlick Claes\n\n
+LOCATION:MSR Main room - odd hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T170000Z
+DTEND:20220520T175000Z
+DTSTAMP:20240331T105654Z
+UID:c614fc7c-b8d3-49f6-a4a0-53e36346670d@conf.researchr.org
+CREATED:20220426T070311Z
+SUMMARY:MSR Technical Papers: Tutorial: Software Bots in Software Engineering: Benefits and Challenges
+DESCRIPTION:\n\n
+LOCATION:MSR Tutorials room - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T180000Z
+DTEND:20220520T190000Z
+DTSTAMP:20240331T105654Z
+UID:0a4ac1cf-0029-4892-95bf-3314c52cc47c@conf.researchr.org
+CREATED:20220426T070456Z
+SUMMARY:MSR Technical Papers: Session 16: Non-functional Properties (Availability\, Security\, Legal Aspects)
+DESCRIPTION:MSR Technical Papers: Session 16: Non-functional Properties (Availability\, Security\, Legal Aspects)\nSession Chair(s): Maxime Lamothe\, Jin L.C. Guo\n\n
+LOCATION:MSR Main room - even hours - , , 
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220523T130000Z
+DTEND:20220523T143000Z
+DTSTAMP:20240331T105654Z
+UID:341b9500-9d6f-41ec-9783-81ee0b88227c@conf.researchr.org
+CREATED:20220513T044330Z
+SUMMARY:MSR Technical Papers: In-Person MSR Opening\, Keynote and MIP Session
+DESCRIPTION:MSR Technical Papers: In-Person MSR Opening\, Keynote and MIP Session\nSession Chair(s): David Lo\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220523T150000Z
+DTEND:20220523T163000Z
+DTSTAMP:20240331T105654Z
+UID:474e6465-9eed-4daa-ac41-4a92f50c5f9a@conf.researchr.org
+CREATED:20220513T044454Z
+SUMMARY:MSR Technical Papers: Blended Technical Session 1 (Integration\, Large-scale mining\, and Software Ecosystems)
+DESCRIPTION:MSR Technical Papers: Blended Technical Session 1 (Integration\, Large-scale mining\, and Software Ecosystems)\nSession Chair(s): Bogdan Vasilescu\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220523T173000Z
+DTEND:20220523T190000Z
+DTSTAMP:20240331T105654Z
+UID:8db1e29d-468b-4e88-8caa-4f4b483e5d39@conf.researchr.org
+CREATED:20220514T045734Z
+SUMMARY:MSR Technical Papers: Blended Technical Session 2 (Machine Learning and Information Retrieval) 
+DESCRIPTION:MSR Technical Papers: Blended Technical Session 2 (Machine Learning and Information Retrieval) \nSession Chair(s): Preetha Chatterjee\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220524T130000Z
+DTEND:20220524T143000Z
+DTSTAMP:20240331T105654Z
+UID:894e460c-55e0-4071-aa2c-ee10097fd196@conf.researchr.org
+CREATED:20220513T044854Z
+SUMMARY:MSR Technical Papers: Blended Technical Session 3 (Smells and Maintenance)
+DESCRIPTION:MSR Technical Papers: Blended Technical Session 3 (Smells and Maintenance)\nSession Chair(s): Andy Zaidman\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220524T150000Z
+DTEND:20220524T161500Z
+DTSTAMP:20240331T105654Z
+UID:02b786e8-0557-4add-9299-679a107aaf89@conf.researchr.org
+CREATED:20220513T045004Z
+SUMMARY:MSR Technical Papers: Blended Technical Session 4 (Introspection\, Vision\, and Human Aspects)
+DESCRIPTION:MSR Technical Papers: Blended Technical Session 4 (Introspection\, Vision\, and Human Aspects)\nSession Chair(s): Ayushi Rastogi\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220524T193000Z
+DTEND:20220524T210000Z
+DTSTAMP:20240331T105654Z
+UID:2ff985c5-d917-468c-9fdb-97d9744b8f4a@conf.researchr.org
+CREATED:20220514T050424Z
+SUMMARY:MSR Technical Papers: Blended Technical Session 5 (Miscellaneous) 
+DESCRIPTION:MSR Technical Papers: Blended Technical Session 5 (Miscellaneous) \nSession Chair(s): Luís Cruz\n\n
+LOCATION:Room 315+316 - 1000 Fort Duquesne Boulevard, Pittsburgh, United States
+LAST-MODIFIED:20220525T001547Z
+END:VEVENT
+END:VCALENDAR
